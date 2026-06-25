@@ -1,5 +1,5 @@
 #PROFESSOR: Rodrigo Medeiros Vilela
-#ALUNA: Gabriel Carneiro Barros 
+#ALUNO: Gabriel Carneiro Barros 
 #COMPONENTE: Python Básico
 #DATA: 11/06/26
 #AULA 03
